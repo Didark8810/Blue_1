@@ -20,7 +20,8 @@ class ViewController: UIViewController,CBCentralManagerDelegate ,CBPeripheralDel
     var manager: CBCentralManager!
     var miBand : CBPeripheral!
 
-    
+    var a :String=""
+    //kahsdhas
     var ModoCadena:Bool = false
     
     var TramaCadena:String = ""
